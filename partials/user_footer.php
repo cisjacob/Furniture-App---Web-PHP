@@ -25,9 +25,6 @@
                 <p>
                     <a href="about-us.php" class="text-white" style="text-decoration: none;">About Us</a>
                 </p>
-                <p>
-                    <a href="/faqs" class="text-white" style="text-decoration: none;">FAQs</a>
-                </p>
             </div>
 
             <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
